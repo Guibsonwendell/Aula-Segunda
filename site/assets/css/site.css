@@ -1,0 +1,64 @@
+/* Paleta de cores
+#025E73 - tom de azul claro
+#011F26 - tom de azul escuro
+#A5A692 - tom de cinza
+#BFB78F - tom de bege
+#F2A71B - tom de amarelo
+*/
+
+
+
+body{margin:0; padding:0; top:0;}
+header{margin:0; padding:0; top:0; background: #A5A692; color: #025E73; }
+main{100%;}
+footer{width: 100%; background:#A5A692; color: #025E73; text-align:center;}
+
+ul{margin: 0; padding-left:400px; list-style: none;}  
+nav{float: left; width:100%; background-color: #BFB78F; font-weight: bold; font-family: Verdana,sans-serif; font-color: #011F26; }
+	nav li {float: left;}
+
+.ind-logo{position: absolute; width: 25%; left: 0; top: 0; text-align: center;}
+.ind-titulo{text-align:center;}
+	.ind-titulo h1{margin-top: 0; margin-right: 0;}
+
+
+
+
+
+/*Visualização para Smartphone (max-width: 480px)*/
+@media only screen and (max-width:508px){
+	nav{height: 50px; }
+ 		nav li{width: 100px; display:none; }
+	.ind-botao{position: absolute; left:85%; cursor: pointer; text-align: right;}
+		.ind-botao img {width:50px;}
+	.ind-logo img{width: 100px;}
+
+}
+
+
+
+
+
+
+/*Visualizção para Pc (min-width:769px)*/
+@media only screen and (min-width:509px){
+ 	nav{height: 40px; padding-top: 15px;}
+		nav li {/*width: 15%;*/ padding-left: 100px; text-align: center;}
+	.ind-botao{display:none;}
+	.ind-logo img{width: 100px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

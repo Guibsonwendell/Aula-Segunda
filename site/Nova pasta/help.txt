@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR"> 
+<head>
+<title>Meu Curriculo</title> ------------- titulo
+<meta charset="UTF-8"/> -------------- definbe a tabela de caracteres que será utilizada pelo site, indioma
+<meta name="author" content- "Nós"/> ------------vai dizer quem é autor 
+<meta name="description" content="currículo desenvolvido para nossa apresentação de Andre"/> -------------- descrição do site, para que serve,qual conteudo, ajuda o google a encontrar a pag
+<meta name= "keywords" content="HTML, CSS, JavaScript" /> ------------ Palavras chaves

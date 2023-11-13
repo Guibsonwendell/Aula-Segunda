@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>   
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" type="text/css" href="assets/css/site.css">
+   
+   <title> CURRICULO </title>
+   <meta id="author" content="Guibson Wendell">
+   <meta name="description" content="Curriculo desenvolvido na aula Aplicações Web">
+   <meta id="keywords" content="html,web"> 
+
+   <link rel="icon" href="assets/images/Perfil.ico">	
+ </head>
+
+ <body>
+  <header>
+   <nav>
+	<ul>
+	 <li>Home </li>	 
+	 <li><a href="skills.html">Skills</a></li>
+	 <li>Contatos </li>
+	</ul>
+   </nav>
+		<div class="ind-botao">
+			<img src="alt&quot;botão=&quot;&quot;" mobile"="" title"botão="">
+		</div>
+		
+		<div class="ind-logo">
+			<img src="" alt="foto de perfil">
+		</div>
+	
+		<div class="ind-titulo">
+	     		<h1> CURRICULUM VITAE </h1>
+			<p> <strong>Nome:</strong> Guibson Wendell Negreiros Pimentel <br>
+     			<strong>Título:</strong> Ensino Médio Técnico Completo
+			</p>
+   		</div>
+   	<hr>
+ </header>
+
+<main>
+<section>
+
+   <h2> DADOS ACADÊMICOS </h2>
+   <table>
+   <tbody><tr>
+   <th> Periodo </th>
+   <th> Curso </th>
+   </tr>
+   <tr>
+   <td> 2023 </td>
+   <td> ANÁLISE E DES. DE SISTEMAS </td>
+   </tr>
+   <tr>
+   <td> 2022 </td>
+   <td> Manutenção e Suporte de Informática </td>
+   </tr>
+   <tr>
+   </tr></tbody></table>
+   <hr>
+</section>
+<section>
+   <h2> DADOS PROFISSIONAIS </h2>
+   <table>
+   <tbody><tr>
+   <th> Periodo </th>
+   <th> Cargo </th>
+   <th> Empresa </th>
+   </tr>
+   <tr>
+   <td> 2023 - atualmente </td>
+   <td> Operador de Telemarketing </td> 
+   <td> </td>
+   </tr>
+   </tbody></table>
+   <hr>
+</section>
+</main>
+<footer>
+<div>
+   <p>Guibsonnegreiros@gmail.com</p>
+</div>
+</footer>
+ 
+</body></html>
